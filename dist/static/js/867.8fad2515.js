@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkct"]=self["webpackChunkct"]||[]).push([[867],{8867:function(t,n,u){u.r(n),u.d(n,{default:function(){return c}});var s=function(){var t=this,n=t._self._c;return n("div",{staticClass:"personal"},["a"==this.$route.params.user?n("div",{on:{click:t.login}},[t._v(" 你还未登录，点击登录！ ")]):n("div",[t._v(" 还没写好 ")])])},e=[],r=(u(5475),{computed:{},data(){return{}},methods:{login(){this.$router.push("/login")}}}),l=r,i=u(8412),a=(0,i.Z)(l,s,e,!1,null,null,null),c=a.exports}}]);
+//# sourceMappingURL=867.8fad2515.js.map
